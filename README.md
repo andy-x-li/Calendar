@@ -10,7 +10,7 @@ To run this code:
   1) Open DrRacket
   2) Open project3.rkt
   3) Press run in the top right corner 
-  4) Type in the command line "(run <calendar format> <month> <year>)"
+  4) Type in the command line "(run 'calendarformat' 'month' 'year')"
   
 An example: "(run fmt0 2 2023)" 
 
