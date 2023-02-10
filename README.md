@@ -1,6 +1,6 @@
 # Calendar
 
-A class project I scripted from scratch in Racket which creates a customizable calendar. 
+A program I scripted from scratch in Racket which creates a customizable calendar. 
 
 My code allows you to select any day of any year using input keys and will tell you which day of the week any day falls on. 
 
