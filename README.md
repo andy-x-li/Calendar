@@ -20,4 +20,6 @@ A calendar will be created which will automatically place you at the first day o
 
 A demo of my code is provided below with the cmd line input "(run fmt0 2 2023)":
 
-https://user-images.githubusercontent.com/125074849/218167985-7cfd34bf-5a8f-4fca-9040-8bc228594110.mov
+https://user-images.githubusercontent.com/125074849/218168406-97aab38a-b221-4ba5-bdb2-c811aa18f7cd.mov
+
+
