@@ -26,3 +26,5 @@ Below is a static screenshot of the second format (fmt1):
   
 <img width="1127" alt="fmt1" src="https://user-images.githubusercontent.com/125074849/218168595-4f6762b7-c391-40a8-8353-ee922c3de257.png">
 
+Note: 
+  project1.rkt and project2.rkt are different stages of my code. project3.rkt is the final version. 
