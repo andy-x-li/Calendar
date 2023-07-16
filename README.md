@@ -23,5 +23,5 @@ https://user-images.githubusercontent.com/125074849/218168406-97aab38a-b221-4ba5
 
   
   
-Note: 
-  `project1.rkt` and `project2.rkt` are different stages of my code. `project3.rkt` is the final version. 
+**Note**: 
+  *`project1.rkt` and `project2.rkt` are different stages of my code. `project3.rkt` is the final version.*
