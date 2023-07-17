@@ -1,4 +1,4 @@
-# Calendar
+# Custom Calendar
 
 A project I scripted from scratch in Racket which creates a customizable calendar. 
 
@@ -21,7 +21,5 @@ A demo of my code is provided below with the cmd line input `(run fmt0 2 2023)`:
 
 https://user-images.githubusercontent.com/125074849/218168406-97aab38a-b221-4ba5-bdb2-c811aa18f7cd.mov
 
-  
-  
 **Note**: 
   *`project1.rkt` and `project2.rkt` are different stages of my code. `project3.rkt` is the final version.*
